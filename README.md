@@ -12,4 +12,9 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
