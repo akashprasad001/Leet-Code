@@ -12,6 +12,7 @@ here i solve leet code question every day.
 ## Array
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
@@ -42,4 +43,20 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akashprasad001/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
