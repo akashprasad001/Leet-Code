@@ -12,6 +12,7 @@ here i solve leet code question every day.
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
@@ -46,6 +47,7 @@ here i solve leet code question every day.
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -59,4 +61,12 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
