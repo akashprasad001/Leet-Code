@@ -34,7 +34,6 @@ The number of positions that have a 1 in both images is 3 (shown in red).
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>n == img1.length == img1[i].length</code></li>
 	<li><code>n == img2.length == img2[i].length</code></li>
