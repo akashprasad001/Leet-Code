@@ -6,6 +6,7 @@ here i solve leet code question every day.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/akashprasad001/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
@@ -56,6 +57,7 @@ here i solve leet code question every day.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -69,6 +71,7 @@ here i solve leet code question every day.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
