@@ -14,6 +14,7 @@ here i solve leet code question every day.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -57,6 +58,7 @@ here i solve leet code question every day.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
