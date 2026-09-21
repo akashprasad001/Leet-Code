@@ -15,6 +15,7 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashprasad001/Leet-Code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -93,4 +94,8 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
