@@ -19,6 +19,7 @@ here i solve leet code question every day.
 | [0053-maximum-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -60,6 +61,7 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashprasad001/Leet-Code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -93,6 +95,7 @@ here i solve leet code question every day.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -106,4 +109,13 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
