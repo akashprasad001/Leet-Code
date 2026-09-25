@@ -6,6 +6,7 @@ here i solve leet code question every day.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akashprasad001/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/akashprasad001/Leet-Code/tree/master/3870-count-commas-in-range) |
@@ -83,6 +84,7 @@ here i solve leet code question every day.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akashprasad001/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
