@@ -8,6 +8,7 @@ here i solve leet code question every day.
 | ------- |
 | [0050-powx-n](https://github.com/akashprasad001/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/akashprasad001/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/akashprasad001/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
@@ -42,6 +43,7 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akashprasad001/Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/akashprasad001/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/akashprasad001/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
@@ -131,5 +133,6 @@ here i solve leet code question every day.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akashprasad001/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/akashprasad001/Leet-Code/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
