@@ -10,6 +10,7 @@ here i solve leet code question every day.
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/akashprasad001/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashprasad001/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3870-count-commas-in-range](https://github.com/akashprasad001/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -78,6 +79,7 @@ here i solve leet code question every day.
 | ------- |
 | [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashprasad001/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
