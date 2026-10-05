@@ -26,6 +26,7 @@ here i solve leet code question every day.
 | [0152-maximum-product-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashprasad001/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/akashprasad001/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/akashprasad001/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/akashprasad001/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -38,6 +39,7 @@ here i solve leet code question every day.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akashprasad001/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/akashprasad001/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
