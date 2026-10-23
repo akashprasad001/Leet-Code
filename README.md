@@ -33,6 +33,7 @@ here i solve leet code question every day.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashprasad001/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/akashprasad001/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/akashprasad001/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akashprasad001/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
@@ -84,6 +85,7 @@ here i solve leet code question every day.
 | [0231-power-of-two](https://github.com/akashprasad001/Leet-Code/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashprasad001/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akashprasad001/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/akashprasad001/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |
