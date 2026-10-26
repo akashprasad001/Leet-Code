@@ -28,6 +28,7 @@ here i solve leet code question every day.
 | [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/akashprasad001/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/akashprasad001/Leet-Code/tree/master/0835-image-overlap) |
+| [0977-squares-of-a-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akashprasad001/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/akashprasad001/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -114,6 +115,7 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -125,6 +127,7 @@ here i solve leet code question every day.
 | [0011-container-with-most-water](https://github.com/akashprasad001/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashprasad001/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
