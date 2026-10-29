@@ -23,6 +23,7 @@ here i solve leet code question every day.
 | [0016-3sum-closest](https://github.com/akashprasad001/Leet-Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/akashprasad001/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akashprasad001/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akashprasad001/Leet-Code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/akashprasad001/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ here i solve leet code question every day.
 | ------- |
 | [0015-3sum](https://github.com/akashprasad001/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akashprasad001/Leet-Code/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/akashprasad001/Leet-Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akashprasad001/Leet-Code/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashprasad001/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -132,6 +134,7 @@ here i solve leet code question every day.
 | [0015-3sum](https://github.com/akashprasad001/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akashprasad001/Leet-Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akashprasad001/Leet-Code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashprasad001/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashprasad001/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -156,4 +159,12 @@ here i solve leet code question every day.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akashprasad001/Leet-Code/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashprasad001/Leet-Code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashprasad001/Leet-Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
